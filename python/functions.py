@@ -22,5 +22,4 @@ def condition(a, b):
         return 'true'
     else:
         return 'false'
-
 condition(5,4)
